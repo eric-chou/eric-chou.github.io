@@ -84,9 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Biomedical informaticist"
   location         : "Pittsburgh, PA"
-  employer         : >
-    University of Pittsburgh 
-    Department of Biomedical Informatics
+  employer         : "University of Pittsburgh DBMI"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "echou53@gmail.com"
