@@ -1,15 +1,9 @@
 ---
-title: "Paper Title Number 2"
+title: "Developing User Personas to Aid in the Design of a User-Centered Natural Product-Drug Interaction Information Resource for Researchers"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
----
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+permalink: /publication/2018-12-05-developing-user-personas
+excerpt: 'Pharmacokinetic interactions between natural products and conventional drugs can adversely impact patient outcomes. These complex interactions present unique challenges that require clear communication to researchers. We are creating a public information portal to facilitate researchers’ access to credible evidence about these interactions. As part of a user-centered design process, three types of intended researchers were surveyed: drug-drug interaction scientists, clinical pharmacists, and drug compendium editors.'
+date: 2018-12-05
+venue: 'American Medical Informatics Association 2018 Annual Symposium'
+paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/30815066'
+citation: 'Boyce RD, Ragueneau-Majlessi I, Yu J, et al. Developing User Personas to Aid in the Design of a User-Centered Natural Product-Drug Interaction Information Resource for Researchers. AMIA Annu Symp Proc. 2018;2018:279–287. Published 2018 Dec 5.'

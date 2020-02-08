@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Eric Chou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Biomedical informaticist"
   location         : "Pittsburgh, PA"
-  employer         :
+  employer         : "University of Pittsburgh Department of Biomedical Informatics"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "echou53@gmail.com"

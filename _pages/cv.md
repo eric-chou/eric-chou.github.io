@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* University of Pittsburgh, B.S. in 2016
+  - Bioinformatics Major -- Chemistry, History Minors -- Conceptual Foundations in Medicine Certificate
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2017 - present: Biomedical Informaticist
+  - University of Pittsburgh Department of Biomedical Informatics
+  - Github University
+  - Supervisor: Dr. Richard Boyce, PhD
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2015 - September 2017: Research Analyst
+  - University of Pittsburgh Department of Biomedical Informatics
+  - Supervisor: Dr. Richard Boyce, PhD
+
+* January 2013 - May 2013: Research Assistant
+  - University of Pittsburgh Department of Psychiatry
+  - Supervisor: Dr. J. Richard Jennings, PhD
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* General Programming: Java, Python, Unix, Git
+* Web Development: JavaScript, HTML, jQuery, Node.js, Sails.js, Sequelize.js, Selenium, Apache
+* Data: SQL, MiniTab, R, Stata
+* Other: Drools, HL7 Clinical Quality Language
 
 Publications
 ======
@@ -56,4 +56,9 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* October 2018 - present: Student Organization Advisor, University of Pittsburgh
+  - Administrative mentor for the “Presentation and Discussion Club” student organization
+* February 2017 - June 2018: Volunteer, Homeless Cat Management Team Spay & Neuter Clinic
+* January 2016 - May 2016: Undergraduate Teaching Assistant, University of Pittsburgh
+  - Foundations of Biology II, Dr. Zuzana Swigonova, PhD.
+* August 2014 - February 2017: Inpatient Volunteer, VA Pittsburgh Healthcare System
