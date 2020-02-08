@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Currently a programmer with the University of Pittsburgh Department of Biomedical Informatics.
+Greetings! I grew up in Dayton, Ohio, and I moved to Pittsburgh for my undergraduate education in bioinformatics at the University of Pittsburgh. Since then, I have continued working in Pittsburgh in a variety of research projects for Pitt's Department of Biomedical Informatics.
