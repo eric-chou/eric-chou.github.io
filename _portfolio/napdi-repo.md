@@ -4,4 +4,4 @@ excerpt: "An open-source, publicly accessible data repository where researchers 
 collection: portfolio
 ---
 
-<a href="https://repo.napdi.org/">Natural Product-Drug Interaction (NaPDI) Repository</a>
+[Natural Product-Drug Interaction (NaPDI) Repository](https://repo.napdi.org/)
