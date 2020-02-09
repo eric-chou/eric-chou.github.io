@@ -18,16 +18,19 @@ Work experience
 ======
 * September 2017 - present: Biomedical Informaticist
   - University of Pittsburgh Department of Biomedical Informatics
-  - Github University
-  - Supervisor: Dr. Richard Boyce, PhD
+  - Collaborated with the Natural Product Drug Interactions (NaPDI) team to develop features for a data repository. Helped design and curate the repository's backend PostgreSQL database. Conducted usability interviews with pharmacology experts to identify interface needs.
+  - Worked with pharmacology experts on enhancing clinical decision making via contextual drug-drug interaction alerts. Constructed algorithms that queried patient data to generate specific and contextualized warnings.
+  - Main Supervisor: Dr. Richard Boyce, PhD
 
 * January 2015 - September 2017: Research Analyst
   - University of Pittsburgh Department of Biomedical Informatics
-  - Supervisor: Dr. Richard Boyce, PhD
+  - Contributed to the development of an EMR-based nursing home intervention to prevent adverse drug events. Applied database skills via loading, refining, and analyzing Medicare patient data.
+  - Main Supervisor: Dr. Richard Boyce, PhD
 
 * January 2013 - May 2013: Research Assistant
   - University of Pittsburgh Department of Psychiatry
-  - Supervisor: Dr. J. Richard Jennings, PhD
+  - Worked with Dr. J. Richard Jennings, PhD and a team of colleagues in a psychophysiology lab. Contributed to research that examined the effects of hypertension on the brain. 
+  - Main Supervisor: Dr. J. Richard Jennings, PhD
   
 Skills
 ======
