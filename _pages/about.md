@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I grew up in Dayton, Ohio, and I moved to Pittsburgh for my undergraduate education in bioinformatics at the University of Pittsburgh. Since then, I have continued working in Pittsburgh in a variety of research projects for Pitt's Department of Biomedical Informatics.
+Greetings! I grew up in Dayton, Ohio, and I moved to Pittsburgh for my undergraduate education in bioinformatics at the University of Pittsburgh. I have consistently been working on several research projects with Pitt faculty in a variety capacities during my undergraduate career and afterward. Since graduating in 2016, I have continued working in Pittsburgh for Pitt's Department of Biomedical Informatics.
