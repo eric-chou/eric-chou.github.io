@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* University of Pittsburgh
-  - Bachelor of Science -- May 2016
-  - Bioinformatics Major -- Chemistry, History Minors -- Conceptual Foundations in Medicine Certificate
-
 * Emory University — Rollins School of Public Health
   - Master of Science in Public Health -- Expected Graduation: May 2022
   -Biostatistics
 
+* University of Pittsburgh
+  - Bachelor of Science -- May 2016
+  - Bioinformatics Major -- Chemistry, History Minors -- Conceptual Foundations in Medicine Certificate
+
 Work experience
 ======
-* September 2017 - August 2020: Biomedical Informaticist
+* September 2017 - August 2020: Systems Programmer
   - University of Pittsburgh Department of Biomedical Informatics
-  - Collaborated with the Natural Product Drug Interactions (NaPDI) team to develop features for a data repository. Helped design and curate the repository's backend PostgreSQL database. Conducted usability interviews with pharmacology experts to identify interface needs.
-  - Worked with pharmacology experts on enhancing clinical decision making via contextual drug-drug interaction alerts. Constructed algorithms that queried patient data to generate specific and contextualized warnings.
+  - Collaborated with the Natural Product Drug Interactions (NaPDI) team to develop features for a data repository. Designed and curated the repository's backend PostgreSQL database
+  - Conducted usability interviews with pharmacology experts to identify interface needs for the NaPDI repository and contributed NodeJS web development to meet these needs
+  - Developed a contextual drug-drug interaction alerting system to enhance clinical decision making in collaboration with pharmacology experts. Constructed algorithms for generating individualized warnings based on patient data
+  - Analyzed potential effects of hydroxychloroquine on QT prolongation through querying a retrospective database and conducting hypothesis tests to assess possible side effects of a proposed COVID-19 therapy
   - Main Supervisor: Dr. Richard Boyce, PhD
 
 * January 2015 - September 2017: Research Analyst
   - University of Pittsburgh Department of Biomedical Informatics
-  - Developed an EMR-based nursing home intervention to prevent adverse drug events. Applied database skills via loading, refining, and analyzing Medicare patient data. 
+  - Applied database and scripting skills via loading, refining, and analyzing Medicare patient data toward implementation of an EMR-based nursing home intervention to prevent adverse drug events
   - Main Supervisor: Dr. Richard Boyce, PhD
 
 * January 2013 - May 2013: Research Assistant
   - University of Pittsburgh Department of Psychiatry
-  - Analyzed the effects of hypertension on the brain in collaboration with Dr. J. Richard Jennings and other colleagues in a psychophysiology lab. 
+  - Analyzed potential effects of hypertension on the brain in collaboration with Dr. J. Richard Jennings and other colleagues in a psychophysiology lab
   - Main Supervisor: Dr. J. Richard Jennings, PhD
   
 Skills
