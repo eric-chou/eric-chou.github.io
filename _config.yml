@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Eric Chou"
   avatar           : "me.jpg"
-  bio              : "University of Pittsburgh, Class of 2016"
-  location         : "Pittsburgh, PA"
+  bio              : 
+  location         : "Atlanta, GA"
   employer         : # "University of Pittsburgh DBMI"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"

@@ -1,0 +1,13 @@
+---
+title: "A New Data Repository for Pharmacokinetic Natural Product-Drug Interactions: from Chemical Characterization to Clinical Studies "
+collection: publications
+permalink: /publication/2020-06-29-a-new-data-repository-for-pharmacokinetic-npdi
+excerpt: 'There are many gaps in scientific knowledge about the clinical significance of pharmacokinetic natural product-drug interactions (NPDIs) in which the NP is the precipitant and a conventional drug is the object. The National Center for Complimentary and Integrative Health created the Center of Excellence for NPDI Research (NaPDI Center) (www.napdi.org) to provide leadership and guidance on the study of pharmacokinetic NPDIs. A key contribution of the Center is the first user-friendly online repository that stores and links pharmacokinetic NPDI data across chemical characterization, metabolomics analyses, and pharmacokinetic in vitro and clinical experiments (repo.napdi.org)...'
+date: 2020-06-29
+venue: 'Drug Metabolism and Disposition'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/32601103/'
+citation: 'Birer-Williams C, Gufford BT, Chou E, et al. A New Data Repository for Pharmacokinetic Natural Product-Drug Interactions: from Chemical Characterization to Clinical Studies [published online ahead of print, 2020 Jun 29]. Drug Metab Dispos. 2020;DMD-AR-2020-000054. doi:10.1124/dmd.120.000054'
+---
+## Abstract
+
+There are many gaps in scientific knowledge about the clinical significance of pharmacokinetic natural product-drug interactions (NPDIs) in which the NP is the precipitant and a conventional drug is the object. The National Center for Complimentary and Integrative Health created the Center of Excellence for NPDI Research (NaPDI Center) (www.napdi.org) to provide leadership and guidance on the study of pharmacokinetic NPDIs. A key contribution of the Center is the first user-friendly online repository that stores and links pharmacokinetic NPDI data across chemical characterization, metabolomics analyses, and pharmacokinetic in vitro and clinical experiments (repo.napdi.org). The design is expected to help researchers more easily arrive at a complete understanding of pharmacokinetic NPDI research on a particular NP. The repository will also facilitate multidisciplinary collaborations, as the repository links all of the experimental data for a given NP across the study types. The current work describes the design of the repository, standard operating procedures (SOPs) used to enter data, and pharmacokinetic NPDI data that have been entered to date. To illustrate the usefulness of the NaPDI Center repository, more details on two high-priority NPs, cannabis and kratom, are provided as case studies. 
