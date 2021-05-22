@@ -1,9 +1,9 @@
 ---
 title: "Designing and evaluating contextualized drug–drug interaction algorithms"
 collection: publications
-permalink: /publication/2021-01-drug-drug-interaction-algorithms
+permalink: /publication/2021-drug-drug-interaction-algorithms
 excerpt: 'Alert fatigue is a common issue with off-the-shelf clinical decision support. Most warnings for drug–drug interactions (DDIs) are overridden or ignored, likely because they lack relevance to the patient’s clinical situation. Existing alerting systems for DDIs are often simplistic in nature or do not take the specific patient context into consideration, leading to overly sensitive alerts. The objective of this study is to develop, validate, and test DDI alert algorithms that take advantage of patient context available in electronic health records (EHRs) data.'
-date: 2021-01
+date: 2021-03-09
 venue: 'JAMIA Open'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7976224/'
 ---
