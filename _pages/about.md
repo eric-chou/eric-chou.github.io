@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I grew up in Dayton, Ohio and completed my undergraduate education in bioinformatics at the University of Pittsburgh. Throughout my undergraduate career, I worked on several research projects with Pitt faculty in a variety capacities. After graduating in 2016, I continued working in Pittsburgh for Pitt's Department of Biomedical Informatics. I am now currently based in Atlanta, where I am pursuing a Masters degree with Emory University's Biostatistics program.
+Greetings! I grew up in Dayton, Ohio and completed my undergraduate education in bioinformatics at the University of Pittsburgh. After graduating in 2016, I continued working in Pittsburgh for Pitt's Department of Biomedical Informatics. I am now currently based in Atlanta, where I am pursuing a Masters degree with Emory University's Biostatistics program.

@@ -21,6 +21,10 @@ Education
 
 Work experience
 ======
+* September 2020 - Present: Graduate Research Assistant
+  - Collaborated on projects related to data analysis of patients with sickle cell disease.
+  - Conducted trajectory analysis of pain scores and assessed the temporal dynamics of pain in sickle cell patients via regime-switching models
+
 * September 2017 - August 2020: Systems Programmer
   - University of Pittsburgh Department of Biomedical Informatics
   - Collaborated with the Natural Product Drug Interactions (NaPDI) team to develop features for a data repository. Designed and curated the repository's backend PostgreSQL database
