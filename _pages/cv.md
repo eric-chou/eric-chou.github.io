@@ -46,7 +46,7 @@ Work experience
 Skills
 ======
 * General Programming: Java, Python, Unix, Git
-* Data: SQL, MiniTab, R, Stata
+* Data: R, Stata, SAS, MiniTab, SQL
 * Web Development: JavaScript, jQuery, Node.js, Sails.js, Sequelize.js, Selenium
 * Other: Drools, HL7 Clinical Quality Language
 
@@ -70,7 +70,9 @@ Publications
   
 Service and leadership
 ======
-* October 2018 - present: Student Organization Advisor, University of Pittsburgh
+* August 2020 - Present: Rollins Scholar in Action, Emory University Rollins School of Public Health
+  - Helped organize an annual book discussion with faculty, Atlanta community members, and fellow students
+* October 2018 - August 2020: Student Organization Advisor, University of Pittsburgh
   - Administrative mentor for the “Presentation and Discussion Club” student organization
 * February 2017 - June 2018: Volunteer, Homeless Cat Management Team Spay & Neuter Clinic
 * January 2016 - May 2016: Undergraduate Teaching Assistant, University of Pittsburgh
