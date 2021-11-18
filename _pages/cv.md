@@ -38,8 +38,7 @@ Work experience
   - Applied SQL database and scripting skills via loading, refining, and analyzing Medicare patient data toward implementation of an EMR-based nursing home intervention to prevent adverse drug events
   - Main Supervisor: Dr. Richard Boyce, PhD
 
-* Research Assistant — January 2013 - May 2013
-  - University of Pittsburgh Department of Psychiatry
+* Research Assistant — University of Pittsburgh Department of Psychiatry — January 2013 - May 2013
   - Analyzed potential effects of hypertension on the brain in collaboration with Dr. J. Richard Jennings and other colleagues in a psychophysiology lab.
   - Main Supervisor: Dr. J. Richard Jennings, PhD
   
