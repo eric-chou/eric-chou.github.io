@@ -12,12 +12,11 @@ redirect_from:
 Education
 ======
 * Emory University — Rollins School of Public Health
-  - Master of Science in Public Health -- Expected Graduation: May 2022
-  -Biostatistics
+  - Master of Science in Public Health -- Biostatistics -- Expected Graduation: May 2022
 
 * University of Pittsburgh
-  - Bachelor of Science -- May 2016
-  - Bioinformatics Major -- Chemistry, History Minors -- Conceptual Foundations in Medicine Certificate
+  - Bachelor of Science -- Bioinformatics -- May 2016
+  - Chemistry, History Minors -- Conceptual Foundations in Medicine Certificate
 
 Work experience
 ======
@@ -39,7 +38,7 @@ Work experience
   - Main Supervisor: Dr. Richard Boyce, PhD
 
 * Research Assistant — University of Pittsburgh Department of Psychiatry — January 2013 - May 2013
-  - Analyzed potential effects of hypertension on the brain in collaboration with Dr. J. Richard Jennings and other colleagues in a psychophysiology lab.
+  - Analyzed potential effects of hypertension on the brain in collaboration with a multidisciplinary group of colleagues in a psychophysiology lab.
   - Main Supervisor: Dr. J. Richard Jennings, PhD
   
 Skills
