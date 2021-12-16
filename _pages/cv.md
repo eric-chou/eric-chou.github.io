@@ -25,14 +25,14 @@ Work experience
   - Conducted trajectory analysis of pain scores and investigated the temporal dynamics of pain in sickle cell patients via Markov regime-switching models.
   - Main Supervisor: Dr. Nitya Bakshi, MD, MS
 
-* Systems Programmer — University of Pittsburgh Department of Biomedical Informatics — September 2017 - August 2020
+* Systems Programmer — University of Pittsburgh School of Medicine Department of Biomedical Informatics — September 2017 - August 2020
   - Worked as part of the Natural Product Drug Interactions (NaPDI) team to develop features for a data repository. Designed and curated the repository's backend PostgreSQL database using NodeJS.
   - Conducted usability interviews with pharmacology experts to identify interface needs for the NaPDI repository and contributed NodeJS web development to meet these needs.
   - Developed a contextual drug-drug interaction alerting system to enhance clinical decision making in collaboration with pharmacology experts. Implemented algorithms for generating individualized warnings based on patient data using JBoss Drools.
   - Analyzed potential effects of hydroxychloroquine on QT prolongation through loading, subsetting, and querying a large retrospective Amazon Redshift database and analysis via R.
   - Main Supervisor: Dr. Richard Boyce, PhD
 
-* Research Analyst — University of Pittsburgh Department of Biomedical Informatics — January 2015 - September 2017
+* Research Analyst — University of Pittsburgh School of Medicine Department of Biomedical Informatics — January 2015 - September 2017
   - Collaborated on projects related to drug safety and pharmacology by analyzing patient data using a combination of SQL and Python.
   - Applied SQL database and scripting skills via loading, refining, and analyzing Medicare patient data toward implementation of an EMR-based nursing home intervention to prevent adverse drug events
   - Main Supervisor: Dr. Richard Boyce, PhD
