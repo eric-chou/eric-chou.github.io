@@ -5,7 +5,7 @@ permalink: /publication/2021-fall-risk-increasing-drugs-polypharmacy-and-falls
 excerpt: ' Medication exposure is a potential risk factor for falls and subsequent death and functional decline among older adults. However, controversy remains on the best way to assess medication exposure and which approach best predicts falls. The objective of the current study was to examine the association between different measures of medication exposure and falls risk among community-dwelling older adults.'
 date: 2021-01-08
 venue: 'Innovation In Aging'
-paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7899132/'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/33644415/'
 ---
 ## Abstract
 
