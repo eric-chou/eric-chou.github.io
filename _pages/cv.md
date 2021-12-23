@@ -29,7 +29,7 @@ Work experience
   - Worked as part of the Natural Product Drug Interactions (NaPDI) team to develop features for a data repository. Designed and curated the repository's backend PostgreSQL database using NodeJS.
   - Conducted usability interviews with pharmacology experts to identify interface needs for the NaPDI repository and contributed NodeJS web development to meet these needs.
   - Developed a contextual drug-drug interaction alerting system to enhance clinical decision making in collaboration with pharmacology experts. Implemented algorithms for generating individualized warnings based on patient data using JBoss Drools.
-  - Analyzed potential effects of hydroxychloroquine on QT prolongation through loading, subsetting, and querying a large retrospective Amazon Redshift database and analysis via R.
+  - Performed large scale retrospective analyses on encounter-based patient data through loading, subsetting, and querying a large Amazon Redshift database via SQL and R.
   - Main Supervisor: Dr. Richard Boyce, PhD
 
 * Research Analyst — University of Pittsburgh School of Medicine Department of Biomedical Informatics — January 2015 - September 2017
