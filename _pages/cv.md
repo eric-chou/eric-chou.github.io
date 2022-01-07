@@ -21,31 +21,37 @@ Education
 Work experience
 ======
 * Graduate Research Assistant — Emory University School of Medicine, Sickle Cell Disease Research Group — September 2020 - Present
-  - Collaborated on projects related to data analysis of patients with sickle cell disease using a combination of R, SAS, and Stata.
-  - Conducted trajectory analysis of pain scores and investigated the temporal dynamics of pain in sickle cell patients via Markov regime-switching models.
+  - Collaborated on research projects related to pain in sickle cell disease through analysis of longitudinal patient data
+  - Used a combination of Stata, SAS, and R for cluster-based trajectory analysis of time series data for pain scores
+  - Applied predictive modeling techniques in assessing the temporal dynamics of pain in sickle cell patients via Markov models
+  - Transformed large datasets of diagnosis data and longitudinal pain scores using Python and R to develop phenotypes for chronic pain and pain-related interference in sickle cell patients
   - Main Supervisor: Dr. Nitya Bakshi, MD, MS
 
 * Systems Programmer — University of Pittsburgh School of Medicine Department of Biomedical Informatics — September 2017 - August 2020
-  - Worked as part of the Natural Product Drug Interactions (NaPDI) team to develop features for a data repository. Designed and curated the repository's backend PostgreSQL database using NodeJS.
-  - Conducted usability interviews with pharmacology experts to identify interface needs for the NaPDI repository and contributed NodeJS web development to meet these needs.
-  - Developed a contextual drug-drug interaction alerting system to enhance clinical decision making in collaboration with pharmacology experts. Implemented algorithms for generating individualized warnings based on patient data using JBoss Drools.
-  - Performed large scale retrospective analyses on encounter-based patient data through loading, subsetting, and querying a large Amazon Redshift database via SQL and R.
+  - Collaborated with the Natural Product Drug Interactions (NaPDI) team to develop features for a data repository. Designed and curated the repository's backend PostgreSQL database
+  - Processed natural product experiment data via a combination of SQL and Node.js code to implement user needs for data visualization and interface tools for the NaPDI data repository
+  - Collected qualitative data points and user experience feedback to inform development of the NaPDI data repository through interactive interviews with pharmacological professionals 
+  - Developed a contextual drug-drug interaction alerting system to enhance clinical decision making in collaboration with pharmacology experts. Implemented algorithms for generating individualized warnings based on patient data using JBoss Drools
+  - Operationalized clinical decision making algorithms using Fast Healthcare Interoperability Resources (FHIR) queries by building upon an open source OMOP on FHIR implementation
+  - Performed large scale retrospective analyses on encounter-based patient data through transforming, loading, and subsetting an Amazon Redshift database via SQL and R
   - Main Supervisor: Dr. Richard Boyce, PhD
 
 * Research Analyst — University of Pittsburgh School of Medicine Department of Biomedical Informatics — January 2015 - September 2017
-  - Collaborated on projects related to drug safety and pharmacology by analyzing patient data using a combination of SQL and Python.
-  - Applied SQL database and scripting skills via loading, refining, and analyzing Medicare patient data toward implementation of an EMR-based nursing home intervention to prevent adverse drug events
+  - Analyzed pharmacology research questions using SQL and Python to process and query large datasets of patient records under the Observational Medical Outcomes Partnership (OMOP) Common Data Model Version 5
+  - Applied database and scripting skills via loading, refining, and analyzing Medicare patient data toward implementation of an EMR-based nursing home intervention to prevent adverse drug events
+  - Implemented Natural Language Processing methods and regular expressions in Python to parse unstructured clinical notes
   - Main Supervisor: Dr. Richard Boyce, PhD
 
 * Research Assistant — University of Pittsburgh Department of Psychiatry — January 2013 - May 2013
-  - Analyzed potential effects of hypertension on the brain in collaboration with a multidisciplinary group of colleagues in a psychophysiology lab.
+  - Analyzed potential effects of hypertension on the brain in collaboration with a multidisciplinary group of colleagues in a psychophysiology lab
+  - Presented spatial data visualizations and findings of brain volume comparisons in patients with sleep apnea
   - Main Supervisor: Dr. J. Richard Jennings, PhD
   
 Skills
 ======
-* General Programming: Java, Python, Unix, Git
-* Data: R, Stata, SAS, MiniTab, SQL
-* Web Development: JavaScript, jQuery, Node.js, Sails.js, Sequelize.js, Selenium
+* General Programming: Java, Python, Unix, Git, AWS Cloud, Docker
+* Data: R, R Shiny, Stata, SAS, SQL, MySQL, PostgreSQL, Minitab, Tableau, ArcGIS
+* Web Development: HTML, JavaScript, jQuery, Node.js
 * Other: Drools, HL7 Clinical Quality Language
 
 Publications
