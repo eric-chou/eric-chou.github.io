@@ -28,7 +28,7 @@ Work experience
   - Main Supervisor: Dr. Nitya Bakshi, MD, MS
 
 * Systems Programmer — University of Pittsburgh School of Medicine Department of Biomedical Informatics — September 2017 - August 2020
-  - Collaborated with the Natural Product Drug Interactions (NaPDI) team to develop features for a data repository. Designed and curated the repository's backend PostgreSQL database
+  - Collaborated with the Natural Product Drug Interactions (NaPDI) team to develop features for a [data repository](https://repo.napdi.org/). Designed and curated the repository's backend PostgreSQL database
   - Processed natural product experiment data via a combination of SQL and Node.js code to implement user needs for data visualization and interface tools for the NaPDI data repository
   - Collected qualitative data points and user experience feedback to inform development of the NaPDI data repository through interactive interviews with pharmacological professionals 
   - Developed a contextual drug-drug interaction alerting system to enhance clinical decision making in collaboration with pharmacology experts. Implemented algorithms for generating individualized warnings based on patient data using JBoss Drools
