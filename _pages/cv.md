@@ -38,7 +38,7 @@ Work experience
 
 * Research Analyst — University of Pittsburgh School of Medicine Department of Biomedical Informatics — January 2015 - September 2017
   - Analyzed pharmacology research questions using SQL and Python to process and query large datasets of patient records under the Observational Medical Outcomes Partnership (OMOP) Common Data Model Version 5
-  - Applied database and scripting skills via loading, refining, and analyzing Medicare patient data toward implementation of an EMR-based nursing home intervention to prevent adverse drug events
+  - Applied database and scripting skills via loading, refining, and analyzing Medicare patient data toward implementation of an EHR-based nursing home intervention to prevent adverse drug events
   - Implemented Natural Language Processing methods and regular expressions in Python to parse unstructured clinical notes
   - Main Supervisor: Dr. Richard Boyce, PhD
 
