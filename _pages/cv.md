@@ -13,6 +13,10 @@ Education
 ======
 * Emory University — Rollins School of Public Health
   - Master of Science in Public Health -- Biostatistics -- Expected Graduation: May 2022
+  - Capstone Project: "Investigating the Effect of Public Transit Accessibility on Diabetic Health Outcomes in Georgia"
+    + Summarized  mobility options and healthcare access in the state of Georgia by ZIP code by compiling publicly available datasets of MARTA public transportation stops, walkability, census data, and access to primary care or hospital locations
+    + Explored potential associations between transportation vulnerability and adverse diabetic health outcomes using ArcGIS mapping, Poisson regression, and Bayesian regression models with spatial random effects
+
 
 * University of Pittsburgh
   - Bachelor of Science -- Bioinformatics -- May 2016
