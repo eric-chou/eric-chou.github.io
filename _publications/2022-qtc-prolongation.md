@@ -2,7 +2,7 @@
 title: "QTc Prolongation with the Use of Hydroxychloroquine and Concomitant Arrhythmogenic Medications: A Retrospective Study Using Electronic Health Records Data"
 collection: publications
 permalink: /publication/2022-qtc-prolongation-hydroxychloroquine
-excerpt: 'The purpose of this retrospective electronic health records study was to evaluate changes in the QTc interval in patients taking hydroxychloroquine with or without concomitant QT-prolonging medications.'
+excerpt: 'The purpose of this study was to determine changes in the QTc interval in patients taking hydroxychloroquine with or without concomitant QT-prolonging medications, analyzing data from a large-scale retrospective health records database.'
 date: 2022-06-05
 venue: 'Drugs Real World Outcomes'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/35665910/'
