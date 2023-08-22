@@ -33,13 +33,12 @@ Work experience
   - Implemented modern regression methods and data modeling approaches in R and Python to assess drivers and key factors behind MARTA's customer segmentation and ridership makeup
   - Designed and developed user-friendly dashboards and report interfaces in PowerBI and R Shiny to facilitate on-demand insights into KPI trends for internal stakeholders across MARTA, including C-level executives
   - Handled ad-hoc data requests with a 100% on-time delivery rate for a variety of internal and external stakeholders, via flexible utilization of Python, R, and SQL for data packaging, analysis, and visualization
-
 * Data Analyst — Emory University School of Medicine, Sickle Cell Disease Research Group — September 2020 - May 2022
 
   - Collaborated on research projects related to pain in sickle cell disease through analysis of longitudinal patient data
   - Used a combination of Stata, SAS, and R for cluster-based trajectory analysis of time series data for pain scores
   - Applied predictive modeling techniques in assessing the temporal dynamics of pain in sickle cell patients via Markov models
-  - Transformed large datasets of diagnosis data and longitudinal pain scores using Python and R to develop phenotypes for chronic pain and pain-related interference in sickle cell patients
+  - Transformed and analyzed large datasets of diagnosis data and longitudinal pain scores using Python and R to develop phenotypes for chronic pain and pain-related interference in sickle cell patients
   - Main Supervisor: Dr. Nitya Bakshi, MD, MS
 * Systems Programmer — University of Pittsburgh School of Medicine Department of Biomedical Informatics — September 2017 - August 2020
 
