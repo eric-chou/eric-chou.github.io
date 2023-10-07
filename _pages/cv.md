@@ -30,22 +30,25 @@ Work experience
 
   - Developed and enhanced data management and governance processes behind data objects integral toward decision-making and enterprise asset management across several of MARTA's key business functions
   - Designed and implemented strategies for data quality assurance in order to detect and correct data issues, and conducted root cause analyses of recurring issues to oversee systematic enhancement in reporting practices
-  - Implemented modern regression methods and data modeling approaches in R and Python to assess drivers and key factors behind MARTA's customer segmentation and ridership makeup
-  - Designed and developed user-friendly dashboards and report interfaces in PowerBI and R Shiny to facilitate on-demand insights into KPI trends for internal stakeholders across MARTA, including C-level executives
+  - Implemented unsupervised learning and modern regression approaches in R and Python to assess drivers and key factors behind MARTA’s cus‑
+tomer segmentation and ridership forecasting
+  - Produced user-friendly dashboards and report interfaces in PowerBI and R Shiny to facilitate on-demand insights into KPI trends for internal stakeholders across MARTA, including C-level executives
   - Handled ad-hoc data requests with a 100% on-time delivery rate for a variety of internal and external stakeholders, via flexible utilization of Python, R, and SQL for data packaging, analysis, and visualization
 * Data Analyst — Emory University School of Medicine, Sickle Cell Disease Research Group — September 2020 - May 2022
 
   - Collaborated on research projects related to pain in sickle cell disease through analysis of longitudinal patient data
-  - Used a combination of Stata, SAS, and R for cluster-based trajectory analysis of time series data for pain scores
+  - Analyzed how pain intensity progresses in patients with sickle cell disease using time series clustering models in R
   - Applied predictive modeling techniques in assessing the temporal dynamics of pain in sickle cell patients via Markov models
-  - Transformed and analyzed large datasets of diagnosis data and longitudinal pain scores using Python and R to develop phenotypes for chronic pain and pain-related interference in sickle cell patients
+  - Transformed and analyzed large quantitative datasets of ICD diagnosis data and longitudinal pain scores using Python and R to develop phe‑
+notypes for chronic pain and pain‑related interference in sickle cell patients
   - Main Supervisor: Dr. Nitya Bakshi, MD, MS
 * Systems Programmer — University of Pittsburgh School of Medicine Department of Biomedical Informatics — September 2017 - August 2020
 
   - Collaborated with the Natural Product Drug Interactions (NaPDI) team to develop features for a [data repository](https://repo.napdi.org/). Designed and curated the repository's backend PostgreSQL database
-  - Processed natural product experiment data via a combination of SQL and Node.js code to implement user needs for data visualization and interface tools for the NaPDI data repository
+  - Packaged natural product experiment data for visualization and interface tools in the NaPDI data repository via SQL and Node.js code
   - Collected qualitative data points and user experience feedback to inform development of the NaPDI data repository through interactive interviews with pharmacological professionals
-  - Developed a contextual drug-drug interaction alerting system to enhance clinical decision making in collaboration with pharmacology experts. Implemented algorithms for generating individualized warnings based on patient data using JBoss Drools
+  - Developed a contextual drug‑drug interaction alerting system to enhance clinical decision making in collaboration with pharmacology experts.
+Constructed algorithms for generating individualized warnings based on ICD diagnosis codes and RxNorm prescription records
   - Operationalized clinical decision making algorithms using Fast Healthcare Interoperability Resources (FHIR) queries by building upon an open source OMOP on FHIR implementation
   - Performed large scale retrospective analyses on encounter-based patient data through transforming, loading, and subsetting an Amazon Redshift database via SQL and R
   - Main Supervisor: Dr. Richard Boyce, PhD
