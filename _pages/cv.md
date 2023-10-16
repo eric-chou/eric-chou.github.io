@@ -30,8 +30,7 @@ Work experience
 
   - Developed and enhanced data management and governance processes behind data objects integral toward decision-making and enterprise asset management across several of MARTA's key business functions
   - Designed and implemented strategies for data quality assurance in order to detect and correct data issues, and conducted root cause analyses of recurring issues to oversee systematic enhancement in reporting practices
-  - Implemented unsupervised learning and modern regression approaches in R and Python to assess drivers and key factors behind MARTA’s cus‑
-    tomer segmentation and ridership forecasting
+  - Implemented unsupervised learning and modern regression approaches in R and Python to assess drivers and key factors behind MARTA’s customer segmentation and ridership forecasting
   - Produced user-friendly dashboards and report interfaces in Power BI and R Shiny to facilitate on-demand insights into KPI trends for internal stakeholders across MARTA, including C-level executives
   - Handled ad-hoc data requests with a 100% on-time delivery rate for a variety of internal and external stakeholders, via flexible utilization of Python, R, and SQL for data packaging, analysis, and visualization
 * Data Analyst — Emory University School of Medicine, Sickle Cell Disease Research Group — September 2020 - May 2022
@@ -39,8 +38,7 @@ Work experience
   - Collaborated on research projects related to pain in sickle cell disease through analysis of longitudinal patient data
   - Analyzed how pain intensity progresses in patients with sickle cell disease using time series clustering models in R
   - Applied predictive modeling techniques in assessing the temporal dynamics of pain in sickle cell patients via Markov models
-  - Transformed and analyzed large quantitative datasets of ICD diagnosis data and longitudinal pain scores using Python and R to develop phe‑
-    notypes for chronic pain and pain‑related interference in sickle cell patients
+  - Transformed and analyzed large quantitative datasets of ICD diagnosis data and longitudinal pain scores using Python and R to develop phenotypes for chronic pain and pain‑related interference in sickle cell patients
   - Main Supervisor: Dr. Nitya Bakshi, MD, MS
 * Systems Programmer — University of Pittsburgh School of Medicine Department of Biomedical Informatics — September 2017 - August 2020
 
