@@ -28,11 +28,11 @@ Work experience
 
 * Data Quality Analyst - Metro Atlanta Rapid Transit Authority (MARTA) - May 2022 - Present
 
-  - Developed and enhanced data management and governance processes behind data objects integral toward decision-making and enterprise asset management across several of MARTA's key business functions
-  - Designed and implemented strategies for data quality assurance in order to detect and correct data issues, and conducted root cause analyses of recurring issues to oversee systematic enhancement in reporting practices
-  - Implemented unsupervised learning and modern regression approaches in R and Python to assess drivers and key factors behind MARTA’s customer segmentation and ridership forecasting
-  - Produced user-friendly dashboards and report interfaces in Power BI and R Shiny to facilitate on-demand insights into KPI trends for internal stakeholders across MARTA, including C-level executives
-  - Handled ad-hoc data requests with a 100% on-time delivery rate for a variety of internal and external stakeholders, via flexible utilization of Python, R, and SQL for data packaging, analysis, and visualization
+  - Develop and enhance data management and governance processes behind data objects integral toward decision-making and enterprise asset management across several of MARTA's key business functions
+  - Design and implement strategies for data quality assurance in order to detect and correct data issues, and conduct root cause analyses of recurring issues to oversee systematic enhancement in reporting practices
+  - Implement unsupervised learning and modern regression approaches in R and Python to assess drivers and key factors behind MARTA’s customer segmentation and ridership forecasting
+  - Produce user-friendly dashboards and report interfaces in Power BI and R Shiny to facilitate on-demand insights into KPI trends for internal stakeholders across MARTA, including C-level executives
+  - Handle ad-hoc data requests with a 100% on-time delivery rate for a variety of internal and external stakeholders, via flexible utilization of Python, R, and SQL for data packaging, analysis, and visualization
 * Data Analyst — Emory University School of Medicine, Sickle Cell Disease Research Group — September 2020 - May 2022
 
   - Collaborated on research projects related to pain in sickle cell disease through analysis of longitudinal patient data
