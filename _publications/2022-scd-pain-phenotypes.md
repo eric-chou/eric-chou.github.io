@@ -1,5 +1,5 @@
 ---
-title: " Multimodal phenotyping and correlates of pain following hematopoietic cell transplant in children with sickle cell disease"
+title: "Multimodal phenotyping and correlates of pain following hematopoietic cell transplant in children with sickle cell disease"
 collection: publications
 permalink: /publication/2022-scd-pain-phenotypes
 excerpt: 'There is limited understanding of pain, psychological comorbidities associated with pain and HRQoL following transplantation for SCD. This study aimed to determine the feasibility and acceptability of collecting data on pain, patient-reported outcomes (PROs), HRQoL and experimental pain sensitivity using quantitative sensory testing (QST), and to compare these before and following HCT in patients with SCD. We hypothesized that there would be a decrease in pain burden following HCT and improvement in pain-associated psychological comorbidity.'
