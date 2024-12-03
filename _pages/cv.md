@@ -33,6 +33,7 @@ Work experience
   - Implement unsupervised learning and modern regression approaches in R and Python to assess drivers and key factors behind MARTA’s customer segmentation and ridership forecasting
   - Produce user-friendly dashboards and report interfaces in Power BI and R Shiny to facilitate on-demand insights into KPI trends for internal stakeholders across MARTA, including C-level executives
   - Handle ad-hoc data requests with a 100% on-time delivery rate for a variety of internal and external stakeholders, via flexible utilization of Python, R, and SQL for data packaging, analysis, and visualization
+  
 * Data Analyst — Emory University School of Medicine, Sickle Cell Disease Research Group — September 2020 - May 2022
 
   - Collaborated on research projects related to pain in sickle cell disease through analysis of longitudinal patient data
@@ -40,6 +41,7 @@ Work experience
   - Applied predictive modeling techniques in assessing the temporal dynamics of pain in sickle cell patients via Markov models
   - Transformed and analyzed large quantitative datasets of ICD diagnosis data and longitudinal pain scores using Python and R to develop phenotypes for chronic pain and pain‑related interference in sickle cell patients
   - Main Supervisor: Dr. Nitya Bakshi, MD, MS
+
 * Systems Programmer — University of Pittsburgh School of Medicine Department of Biomedical Informatics — September 2017 - August 2020
 
   - Collaborated with the Natural Product Drug Interactions (NaPDI) team to develop features for a [data repository](https://repo.napdi.org/). Designed and curated the repository's backend PostgreSQL database
@@ -50,12 +52,14 @@ Work experience
   - Operationalized clinical decision making algorithms using Fast Healthcare Interoperability Resources (FHIR) queries by building upon an open source OMOP on FHIR implementation
   - Performed large scale retrospective analyses on encounter-based patient data through transforming, loading, and subsetting an Amazon Redshift database via SQL and R
   - Main Supervisor: Dr. Richard Boyce, PhD
+
 * Research Analyst — University of Pittsburgh School of Medicine Department of Biomedical Informatics — January 2015 - September 2017
 
   - Analyzed pharmacology research questions using SQL and Python to process and query large datasets of patient records under the Observational Medical Outcomes Partnership (OMOP) Common Data Model Version 5
   - Applied database and scripting skills via loading, refining, and analyzing Medicare patient data toward implementation of an EHR-based nursing home intervention to prevent adverse drug events
   - Implemented Natural Language Processing methods and regular expressions in Python to parse unstructured clinical notes
   - Main Supervisor: Dr. Richard Boyce, PhD
+  
 * Research Assistant — University of Pittsburgh Department of Psychiatry — January 2013 - May 2013
 
   - Analyzed potential effects of hypertension on the brain in collaboration with a multidisciplinary group of colleagues in a psychophysiology lab
@@ -65,10 +69,9 @@ Work experience
 Skills
 ======
 
-* General Programming: Java, Python, Unix, Git, AWS Cloud, Docker
-* Data: R, R Shiny, Stata, SAS, SQL, MySQL, PostgreSQL, Minitab, Tableau, ArcGIS
-* Web Development: HTML, JavaScript, jQuery, Node.js
-* Other: Drools, HL7 Clinical Quality Language
+* Programming: R, Python, Java, SQL, SAS, Stata, JavaScript
+* Data Visualization: Shiny, Power BI, Tableau, Rmarkdown, Jupyter, ArcGIS
+* Git, AWS, Oracle Cloud, Databricks Docker, Node.js
 
 Publications
 ============
