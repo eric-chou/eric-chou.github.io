@@ -71,7 +71,7 @@ Skills
 
 * Programming: R, Python, Java, SQL, SAS, Stata, JavaScript
 * Data Visualization: Shiny, Power BI, Tableau, Rmarkdown, Jupyter, ArcGIS
-* Software & Services: Git, AWS, Oracle Cloud, Databricks, Docker, Node.js
+* Services & Tools: Git, AWS, Oracle Cloud, Databricks, Docker, Node.js
 
 Publications
 ============
