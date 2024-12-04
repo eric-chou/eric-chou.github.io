@@ -26,13 +26,17 @@ Education
 Work experience
 ===============
 
-* Data Quality Analyst - Metro Atlanta Rapid Transit Authority (MARTA) - May 2022 - Present
+* Data Managemenet Analyst - Metro Atlanta Rapid Transit Authority (MARTA) - March 2024 - Present
+  
+  - Lead enterprise-wide initiatives toward establishing strategic data governance functions and processes across a variety of MARTA's key business functions and data domains
+  - Designed, tested, and deployed statistical models using machine learning for detecting and correcting data issues, and conducted root cause analyses of ad-hoc data quality issues toward overseeing improvement in systems integral toward strategic decision-making
+  - Became a subject matter expert in MARTA's data systems for corporate data asset management toward conducting and supporting analyses and reporting infrastructure critical to business decision support
 
-  - Develop and enhance data management and governance processes behind data objects integral toward decision-making and enterprise asset management across several of MARTA's key business functions
-  - Design and implement strategies for data quality assurance in order to detect and correct data issues, and conduct root cause analyses of recurring issues to oversee systematic enhancement in reporting practices
-  - Implement unsupervised learning and modern regression approaches in R and Python to assess drivers and key factors behind MARTA’s customer segmentation and ridership forecasting
-  - Produce user-friendly dashboards and report interfaces in Power BI and R Shiny to facilitate on-demand insights into KPI trends for internal stakeholders across MARTA, including C-level executives
-  - Handle ad-hoc data requests with a 100% on-time delivery rate for a variety of internal and external stakeholders, via flexible utilization of Python, R, and SQL for data packaging, analysis, and visualization
+* Data Quality Analyst - Metro Atlanta Rapid Transit Authority (MARTA) - May 2022 - March 2024
+  
+  - Implemented unsupervised learning and modern regression approaches in R and Python to assess drivers and key factors behind MARTA’s customer segmentation and ridership forecasting
+  - Produced user-friendly dashboards and report interfaces in Power BI and R Shiny to facilitate on-demand insights into KPI trends for internal stakeholders across MARTA, including C-level executives
+  - Handled ad-hoc data requests with a 100% on-time delivery rate for a variety of internal and external stakeholders, via flexible utilization of Python, R, and SQL for data packaging, analysis, and visualization
   
 * Data Analyst — Emory University School of Medicine, Sickle Cell Disease Research Group — September 2020 - May 2022
 
