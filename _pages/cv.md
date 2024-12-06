@@ -26,7 +26,7 @@ Education
 Work experience
 ===============
 
-* Data Managemenet Analyst - Metro Atlanta Rapid Transit Authority (MARTA) - March 2024 - Present
+* Data Management Analyst - Metro Atlanta Rapid Transit Authority (MARTA) - March 2024 - Present
   
   - Lead enterprise-wide initiatives toward establishing strategic data governance functions and processes across a variety of MARTA's key business functions and data domains
   - Designed, tested, and deployed statistical models using machine learning for detecting and correcting data issues, and conducted root cause analyses of ad-hoc data quality issues toward overseeing improvement in systems integral toward strategic decision-making
